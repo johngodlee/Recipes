@@ -9,9 +9,9 @@
 * Campden Tablets (1 per final vessel)
 
 ## Equipment
-* >5 litre fermenting bin w/ lid
+* Greater than 5 litre fermenting bin w/ lid
 * Funnel
-* >5 litre glass demijohn
+* Greater than 5 litre glass demijohn
 * Bung with hole
 * Bubbler Airlock
 * Cheesecloth
