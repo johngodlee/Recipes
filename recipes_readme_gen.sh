@@ -5,7 +5,7 @@ rm index.md
 dir_list=$(find . -type d -depth 1 | sed -e '/\.git/d' -e '/infographics_guides_books/d' | sed 's|^\./||')
 
 for i in $dir_list; do
-	dir_title=$(echo $i | sed 's/_/ /g' | sed 's/[[:space:]]*$//')	
+	dir_title=$(echo $i | sed 's/_/ /g')	
 
 	echo "- [$dir_title]($i/README.md)" >> index.md
 
