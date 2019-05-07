@@ -3,6 +3,7 @@
 ## Ingredients
 
 * 1 tsp salt
+* 1 tbsp granulated sugar
 * 1 tsp dried yeast
 * 3.5 cups white flour
 * 1 cup water
