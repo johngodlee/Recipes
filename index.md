@@ -62,6 +62,7 @@
 	* [Nut Roast - Morna Brown ](Main_Dishes/nut_roast.md)
 	* [Potato and Leek Mini Pies](Main_Dishes/potato_leek_pies.md)
 	* [Vegan Chickpea Potato Curry](Main_Dishes/vegan_chickpea_potato_curry.md)
+	* [Creamy vegan pasta with broccoli and mushrooms](Main_Dishes/vegan_creamy_pasta.md)
 - [Snacks Sandwiches Breakfast](Snacks_Sandwiches_Breakfast/README.md)
 	* [Battered avocado BAT sandwich](Snacks_Sandwiches_Breakfast/Battered_avocado_BAT_sandwich.md)
 	* [Bean and Cheese Taquitos](Snacks_Sandwiches_Breakfast/Bean_and_Cheese_Taquitos.md)
