@@ -56,6 +56,7 @@
 	* [Vegan Skillet Lasagne](Main_Dishes/Vegan_Skillet_Lasagna.md)
 	* [Vegetarian Haggis](Main_Dishes/Vegetarian_Haggis.md)
 	* [Creamy daal with turmeric-toasted cauliflower ](Main_Dishes/daal_toasted_cauliflower.md)
+	* [Veggie enchiladas](Main_Dishes/enchilladas.md)
 	* [Lentil and okra curry ](Main_Dishes/lentil_okra_curry.md)
 	* [Mushroom chilli](Main_Dishes/mushroom_chilli.md)
 	* [Mushroom and pecan wellington](Main_Dishes/mushroom_pecan_roll.md)
@@ -79,6 +80,7 @@
 	* [Freezer vegan breakfast burritos](Snacks_Sandwiches_Breakfast/freezer_vegan_breakfast_burritos.md)
 - [Bread](Bread/README.md)
 	* [Arabic Bread](Bread/arabic_bread.md)
+	* [Cheesy beer bread rolls](Bread/beer_rolls.md)
 	* [Brown Loaf](Bread/brown_loaf.md)
 	* [Ciabatta (Yukon Magazine, Alpine Bakery)](Bread/ciabatta.md)
 	* [Drop biscuits ](Bread/drop_biscuits.md)

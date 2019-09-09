@@ -1,6 +1,6 @@
 # Creamy daal with turmeric-toasted cauliflower 
 
-# Ingredients
+## Ingredients
 
 * 400 g brown or black lentils
 * 1 bay leaf
@@ -17,7 +17,7 @@
 * 2 tbsp tomato paste
 * 200 ml double cream
 
-## Spice mix
+### Spice mix
 
 * 0.5 tbsp cumin seeds
 * 2 cloves
@@ -27,18 +27,18 @@
 * 2-3 pinches dried chilli flakes
 * 1 tsp fennel seeds
 
-## Cauliflower
+### Cauliflower
 
 * 1 small head cauliflower
 * 1 tsp ground turmeric
 * 2 tbsp rapeseed oil
 
-## To serve
+### To serve
 
 * 1 fresh red chilli
 * 1 large handful coriander leaves
 
-# Method
+## Method
 
 1. Rinse the lentils in cold water
 2. Combine lentils with bay leaf, cinnamon and chilli in a large pan. Cover with water and a tsp salt.
