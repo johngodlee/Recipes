@@ -58,6 +58,7 @@
 	* [Creamy daal with turmeric-toasted cauliflower ](Main_Dishes/daal_toasted_cauliflower.md)
 	* [Veggie enchiladas](Main_Dishes/enchilladas.md)
 	* [Lentil and okra curry ](Main_Dishes/lentil_okra_curry.md)
+	* [Lentil and okra curry ](Main_Dishes/lentil_wellington.md)
 	* [Mushroom chilli](Main_Dishes/mushroom_chilli.md)
 	* [Mushroom and pecan wellington](Main_Dishes/mushroom_pecan_roll.md)
 	* [Nut Roast - Morna Brown ](Main_Dishes/nut_roast.md)
