@@ -19,6 +19,7 @@
 	* [Stewed Rhubarb](Dessert/Stewed_rhubarb.md)
 	* [Sugar Cookies](Dessert/Sugar_cookies.md)
 	* [Victoria Sponge Cake](Dessert/Victoria_Sponge_Cake.md)
+	* [Vegan Chocolate Chip Cookies](Dessert/chocolate_chip_cookies.md)
 	* [Chocolate peanut butter cups](Dessert/peanut_butter_cups.md)
 	* [Vegan brownies](Dessert/vegan_brownie.md)
 - [Miscellaneous](Miscellaneous/README.md)
