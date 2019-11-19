@@ -1,4 +1,4 @@
-# Lentil and okra curry 
+# Lentil wellington 
 
 ## Ingredients
 

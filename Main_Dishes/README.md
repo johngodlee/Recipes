@@ -54,9 +54,13 @@
 
 [Vegetarian Haggis](Vegetarian_Haggis.md)
 
-[Creamy daal with turmeric-toasted cauliflower ](daal_toasted_cauliflower.md)
+[Creamy daal with turmeric-toasted cauliflower ](daal_toasted_cauliflower.md)
+
+[Veggie enchiladas](enchilladas.md)
 
 [Lentil and okra curry ](lentil_okra_curry.md)
+
+[Lentil wellington ](lentil_wellington.md)
 
 [Mushroom chilli](mushroom_chilli.md)
 
@@ -67,4 +71,6 @@
 [Potato and Leek Mini Pies](potato_leek_pies.md)
 
 [Vegan Chickpea Potato Curry](vegan_chickpea_potato_curry.md)
+
+[Creamy vegan pasta with broccoli and mushrooms](vegan_creamy_pasta.md)
 

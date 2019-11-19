@@ -20,13 +20,15 @@ done
 
 for i in $dir_list; do
 
-	rm README.md
+	> $i/README.md
 
-	for j in *.md; do
-		md_contents_title=$(head -n 1 $j | sed 's/# //g')
+	md_list=$(find $i/* -type f | sed '/README.md/d' | sed 's!.*/!!' )
 
-		echo "[$md_contents_title]($j)" >> README.md
+	for j in $md_list; do
+		md_contents_title=$(head -n 1 $i/$j | sed 's/# //g')
 
-		echo "" >> README.md 
+		echo "[$md_contents_title]($j)" >> $i/README.md
+
+		echo "" >> $i/README.md 
 	done
 done

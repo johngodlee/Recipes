@@ -1,4 +1,4 @@
-[Apricot and orange blossom baklava](Apricot_orange_blossom_baklava.md)
+[Apricot and orange blossom baklava](Apricot_orange_blossom_baklava.md)
 
 [Baked Pumpkin with Apple](Baked_pumpkin_with_apple.md)
 
@@ -21,6 +21,8 @@
 [Sugar Cookies](Sugar_cookies.md)
 
 [Victoria Sponge Cake](Victoria_Sponge_Cake.md)
+
+[Vegan Chocolate Chip Cookies](chocolate_chip_cookies.md)
 
 [Chocolate peanut butter cups](peanut_butter_cups.md)
 

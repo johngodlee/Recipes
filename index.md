@@ -7,7 +7,7 @@
 	* [Plum Wine](Drinks/Plum_Wine.md)
 	* [Buckwheat Saison with Cashmere Hops](Drinks/buckwheat_saison.md)
 - [Dessert](Dessert/README.md)
-	* [Apricot and orange blossom baklava](Dessert/Apricot_orange_blossom_baklava.md)
+	* [Apricot and orange blossom baklava](Dessert/Apricot_orange_blossom_baklava.md)
 	* [Baked Pumpkin with Apple](Dessert/Baked_pumpkin_with_apple.md)
 	* [Chia Seed Chocolate Pudding](Dessert/Chia_Seed_Chocolate_Pudding.md)
 	* [Elderberry Pie](Dessert/Elderberry_pie.md)
@@ -27,6 +27,7 @@
 	* [Lip Balm](Miscellaneous/Lip_balm.md)
 	* [Tomato Ketchup ](Miscellaneous/Tomato_Ketchup.md)
 	* [Wood Sealant](Miscellaneous/Wood_sealant.md)
+	* [Hairy bittercress pesto](Miscellaneous/bittercress_pesto.md)
 - [Main Dishes](Main_Dishes/README.md)
 	* [Basil Sage Gnocchi](Main_Dishes/Basil_Sage_Gnocchi.md)
 	* [Beans with charred chillies](Main_Dishes/Beans_with_charred_chillies.md)
@@ -56,10 +57,10 @@
 	* [Vegan Gnocchi](Main_Dishes/Vegan_Gnocchi.md)
 	* [Vegan Skillet Lasagne](Main_Dishes/Vegan_Skillet_Lasagna.md)
 	* [Vegetarian Haggis](Main_Dishes/Vegetarian_Haggis.md)
-	* [Creamy daal with turmeric-toasted cauliflower ](Main_Dishes/daal_toasted_cauliflower.md)
+	* [Creamy daal with turmeric-toasted cauliflower ](Main_Dishes/daal_toasted_cauliflower.md)
 	* [Veggie enchiladas](Main_Dishes/enchilladas.md)
 	* [Lentil and okra curry ](Main_Dishes/lentil_okra_curry.md)
-	* [Lentil and okra curry ](Main_Dishes/lentil_wellington.md)
+	* [Lentil wellington ](Main_Dishes/lentil_wellington.md)
 	* [Mushroom chilli](Main_Dishes/mushroom_chilli.md)
 	* [Mushroom and pecan wellington](Main_Dishes/mushroom_pecan_roll.md)
 	* [Nut Roast - Morna Brown ](Main_Dishes/nut_roast.md)
@@ -100,5 +101,3 @@
 	* [Pizza Margherita](Pizza/Pizza_Margherita.md)
 	* [Spinach Pizzetta](Pizza/Spinach_Pizzetta.md)
 	* [Vegan Lahmajun](Pizza/vegan_lahmajun.md)
-- [Foraged Food](Foraged_Food/README.md)
-	* [Hairy bittercress pesto](Foraged_Food/bittercress_pesto.md)
