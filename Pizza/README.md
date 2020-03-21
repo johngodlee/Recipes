@@ -4,5 +4,7 @@
 
 [Spinach Pizzetta](Spinach_Pizzetta.md)
 
+[Frank Pinello's pizza dough recipe](frank_pinello_dough.md)
+
 [Vegan Lahmajun](vegan_lahmajun.md)
 

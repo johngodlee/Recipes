@@ -100,4 +100,5 @@
 	* [Mini Calzones](Pizza/Mini_Calzones.md)
 	* [Pizza Margherita](Pizza/Pizza_Margherita.md)
 	* [Spinach Pizzetta](Pizza/Spinach_Pizzetta.md)
+	* [Frank Pinello's pizza dough recipe](Pizza/frank_pinello_dough.md)
 	* [Vegan Lahmajun](Pizza/vegan_lahmajun.md)
