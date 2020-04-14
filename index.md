@@ -92,7 +92,6 @@
 	* [Khachapuri - Georgian Cheese Bread ](Bread/khachapuri.md)
 	* [Olive Rosemary Foccacia](Bread/olive_rosemary_foccacia.md)
 	* [Potato bread](Bread/potato_bread.md)
-	* [Potato Farls](Bread/potato_farls.md)
 	* [Rosemary Sweet Potato Rolls](Bread/rosemary_sweet_potato_rolls.md)
 	* [Stuffing Rolls](Bread/stuffing_rolls.md)
 	* [Sweet Potato Crescent Rolls](Bread/sweet_potato_crescent_pastry_rolls.md)
