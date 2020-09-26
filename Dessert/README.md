@@ -22,6 +22,8 @@
 
 [Victoria Sponge Cake](Victoria_Sponge_Cake.md)
 
+[Chocolate brownies ](chocolate_brownies.md)
+
 [Vegan Chocolate Chip Cookies](chocolate_chip_cookies.md)
 
 [Chocolate peanut butter cups](peanut_butter_cups.md)
