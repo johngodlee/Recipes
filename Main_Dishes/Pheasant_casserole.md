@@ -20,7 +20,7 @@
 
 1. Season pheasant and dust with flour 
 2. Chop onions, celery, ginger root
-2. Melt 40g of butter in large pan and brown pheasant over high heat until deep golden brown 
+2. Melt 40 g of butter in large pan and brown pheasant over high heat until deep golden brown 
 3. Transfer pheasant to slow cooker
 4. Add bacon to empty pheasant pan and fry over high heat until golden 
 5. Turn heat to medium, add onions, celery, juniper berries, ginger and cook for 8-10 minutes until vegetables have softened
