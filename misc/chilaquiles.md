@@ -1,6 +1,7 @@
 # Chilaquiles
 
 ## Ingredients
+
 * 1 avocado, sliced
 * 6 eggs
 * 0.5 cup crumbled feta
@@ -11,6 +12,7 @@
 * 1 tablespoon olive oil
 
 ## Method
+
 1. heat oil in pan
 2. Add salsa to pan and simmer for 10 minutes
 3. Add chips, and stir into salsa

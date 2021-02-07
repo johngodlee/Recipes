@@ -1,4 +1,4 @@
-# Vegan Chilli
+# Bean chilli
 
 ## Ingredients
 * 3 tbsp olive oil
@@ -25,7 +25,7 @@
 	* Brown Rice
 	* Black beans
 
-*Optional
+* Optional:
 	* 1 Avocado, diced
 	* Handful coriander leaves	
 	* Sour cream
