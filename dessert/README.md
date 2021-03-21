@@ -6,11 +6,7 @@
 
 [Elderberry Pie](elderberry_pie.md)
 
-[Flapjacks](flapjacks.md)
-
 [Gajar burfi](gajar_burfi.md)
-
-[Microwave Brownie](microwave_brownie.md)
 
 [Chocolate peanut butter cups](peanut_butter_cups.md)
 

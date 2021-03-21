@@ -1,12 +1,6 @@
-[Basil Sage Gnocchi](basil_sage_gnocchi.md)
-
 [Bean chilli](bean_chilli.md)
 
-[Beans with charred chillies](beans_with_charred_chillies.md)
-
 [Braised Leeks](braised_leeks.md)
-
-[Pesto chicken stew with cheesy dumplings](chicken_pesto_dumpling_stew.md)
 
 [Chickpea pastry slice](chickpea_pastry_slice.md)
 
@@ -20,8 +14,6 @@
 
 [Vegan Gnocchi](gnocchi.md)
 
-[Hasselback potatoes](hasselback_potatoes.md)
-
 [Lentil wellington](lentil_wellington.md)
 
 [Mushroom chilli](mushroom_chilli.md)
@@ -30,7 +22,7 @@
 
 [Mushroom Pithivier](mushroom_pithivier.md)
 
-[Nut Roast - Morna Brown](nut_roast.md)
+[Nut Roast](nut_roast.md)
 
 [Pasta with vodka and sausage](pasta_with_vodka_and_sausage.md)
 
@@ -43,8 +35,6 @@
 [Refried beans](refried_beans.md)
 
 [Spinach, feta, oregano filo pie](spinach_feta_oregano_filo_pie.md)
-
-[Squash Gnocchi](squash_gnocchi.md)
 
 [Stewed red cabbage](stewed_red_cabbage.md)
 

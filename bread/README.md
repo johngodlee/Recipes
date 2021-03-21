@@ -16,7 +16,3 @@
 
 [Potato bread](potato_bread.md)
 
-[Rosemary Sweet Potato Rolls](rosemary_sweet_potato_rolls.md)
-
-[Stuffing Rolls](stuffing_rolls.md)
-

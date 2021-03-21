@@ -1,5 +1,3 @@
-[Bean and Cheese Taquitos](bean_and_cheese_taquitos.md)
-
 [Hairy bittercress pesto](bittercress_pesto.md)
 
 [Chickpea and carrot crepes](chickpea_carrot_crepes.md)
