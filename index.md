@@ -57,6 +57,7 @@
 	* [Potato and Leek Mini Pies](./mains/potato_leek_pies.md)
 	* [Rabbit Stew](./mains/rabbit_stew.md)
 	* [Refried beans](./mains/refried_beans.md)
+	* [Spiced chickpeas](./mains/spiced_chickpeas.md)
 	* [Spinach, feta, oregano filo pie](./mains/spinach_feta_oregano_filo_pie.md)
 	* [Stewed red cabbage](./mains/stewed_red_cabbage.md)
 	* [Tofu scramble](./mains/tofu_scramble.md)

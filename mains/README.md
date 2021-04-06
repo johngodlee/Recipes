@@ -34,6 +34,8 @@
 
 [Refried beans](refried_beans.md)
 
+[Spiced chickpeas](spiced_chickpeas.md)
+
 [Spinach, feta, oregano filo pie](spinach_feta_oregano_filo_pie.md)
 
 [Stewed red cabbage](stewed_red_cabbage.md)
