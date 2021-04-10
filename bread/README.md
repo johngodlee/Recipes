@@ -14,5 +14,9 @@
 
 [Olive Rosemary Foccacia](olive_rosemary_foccacia.md)
 
+[Frank Pinello pizza dough](pinello_dough.md)
+
+[Pizza Margherita](pizza_margherita.md)
+
 [Potato bread](potato_bread.md)
 
