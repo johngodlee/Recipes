@@ -35,6 +35,7 @@
 	* [Drop biscuits](./bread/drop_biscuits.md)
 	* [Khachapuri - Georgian Cheese Bread](./bread/khachapuri.md)
 	* [Basic loaf](./bread/loaf.md)
+	* [J. Kenji Lopez-Alt pizza dough](./bread/lopez_alt_pizza_dough.md)
 	* [Naan](./bread/naan.md)
 	* [Olive Rosemary Foccacia](./bread/olive_rosemary_foccacia.md)
 	* [Frank Pinello pizza dough](./bread/pinello_dough.md)

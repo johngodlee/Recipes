@@ -10,6 +10,8 @@
 
 [Basic loaf](loaf.md)
 
+[J. Kenji Lopez-Alt pizza dough](lopez_alt_pizza_dough.md)
+
 [Naan](naan.md)
 
 [Olive Rosemary Foccacia](olive_rosemary_foccacia.md)
